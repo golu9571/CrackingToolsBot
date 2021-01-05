@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/DevsExpo/CrackingToolsBot",
   "website": "starkgang.ml",
-  "success_url": "t.me/devsExpo",
+  "success_url": "t.me/arrowwgiveawayz",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
